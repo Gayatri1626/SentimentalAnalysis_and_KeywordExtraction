@@ -1,13 +1,8 @@
 # SentimentalAnalysis_and_KeywordExtraction
 
-Introduction:-
+## Introduction:-
 This repository contains code for sentiment analysis and keyword extraction from text data. Sentiment analysis is the process of determining the sentiment expressed in a piece of text, whether it's positive, negative, or neutral. Keyword extraction involves identifying the most important words in a text that represent its main topics or themes.
 
-# Wikipedia Keyword-based Text Extraction
-
-## Introduction
-
-This Python script scrapes content from Wikipedia articles and extracts sentences containing user-specified keywords. It utilizes the Requests library to fetch web pages and the BeautifulSoup library for HTML parsing. The extracted sentences are then printed to the console.
 
 ## Features
 
