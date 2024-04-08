@@ -24,13 +24,11 @@ This repository contains code for sentiment analysis and keyword extraction from
 -matplotlib
 
 ## Usage
--- Clone the repository or download the script
--- Git clone https://github.com/Gayatri1626/SentimentalAnalysis_and_KeywordExtraction.git
--- Install necessary dependencies
-   pip install requests beautifulsoup4
-   Pip install re
-  Pip install nltk
---run the script SentimentAnalysis_and_KeywordExtraction.py
+1. Clone the repository	- Visit the GitHub repository: https://github.com/Gayatri1626/SentimentalAnalysis_and_KeywordExtraction.git <br> - Click on the green "Code" button <br> - Select "HTTPS" and copy the repository URL <br> - Open your terminal <br> - Navigate to the directory where you want to clone the repository <br> - Run git clone [repository URL] in the terminal
+2. Download the script	- Visit the GitHub repository: https://github.com/Gayatri1626/SentimentalAnalysis_and_KeywordExtraction.git  <br> - Find the "Code" button and click on it <br> - Click on "Download ZIP" <br> - Extract the ZIP file to the desired directory on your computer
+4. Install dependencies	Run all the required dependencies in your terminal to install the required dependencies(re,nltk,beautifulsoup4)
+5. Run the script	Execute the script by running .py in your terminal
+
 
 ## Customization
 
